@@ -151,7 +151,7 @@ while True:
             if int(select) == 1:
                 print("Press '1' for male.")
                 print("Press '2' for female.")
-                print("Press '3' to get 5 random names.")
+                print("Press '3' to get 5 random names.")  # male and female
 
                 while True:
                     select = input("What would you like? ")
@@ -175,7 +175,7 @@ while True:
             elif int(select) == 2:
                 print("Press '1' for male.")
                 print("Press '2' for female.")
-                print("Press '3' to get 5 random names.")
+                print("Press '3' to get 5 random names.")  # male and female
 
                 while True:
                     select = input("What would you like? ")
