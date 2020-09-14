@@ -209,9 +209,9 @@ while True:
         headers = ["Experience", "Level",
                    "Prof. Bonus"]  # headers for leveling table
         table = [
-            ["0", "1", "+2"],
+            ["0", "1", "+2"], # table contents
             ["300", "2", "+2"],
-            ["900", "3", "+2"],  # table contents
+            ["900", "3", "+2"],  
             ["2,700", "4", "+2"],
             ["6,500", "5", "+3"],
             ["14,000", "6", "+3"],
