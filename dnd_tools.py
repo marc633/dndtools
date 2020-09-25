@@ -9,7 +9,7 @@ faker = Faker()
 
 while True:
 
-    coins = {"cp": 0, "sp": 0, "ep": 0, "gp": 0, "pp": 0}
+    coins = {"pp": 0, "gp": 0, "ep": 0, "sp": 0, "cp": 0}
 
     print("\n****************** DnD Tools v0.7.1 ******************")
     print("|  Press '1' to access the Coin Converter.           |")
